@@ -20,7 +20,7 @@
 3. *Note: If prompted about Execution Policy, run `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` in your terminal first.*
 
 ## 📸 Screenshots
-<img src="https://github.com/TBNRBERRY/RigReport/blob/main/Screenshots/Dark%20Mode.png" width="546" height="548" /> <img src="https://github.com/TBNRBERRY/RigReport/blob/main/Screenshots/Light%20Mode.png" width="546" height="548" />
+<img src="https://github.com/TBNRBERRY/RigReport/blob/main/Screenshots/Dark%20Mode.png" width="48%" /> <img src="https://github.com/TBNRBERRY/RigReport/blob/main/Screenshots/Light%20Mode.png" width="48%" />
 
 ## 🛠️ Data Points Captured
 - **Operating System** & Computer Name
